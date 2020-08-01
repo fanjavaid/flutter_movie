@@ -1,7 +1,10 @@
-# flutter_movie
-Flutter Movie App
+# Flutter Movie App
+Simple Flutter Movie App.
+The design belongs to https://www.uplabs.com/posts/movie-app-concept-95b6fde7-6445-49f1-b748-4dee27cd8de4
 
-A new Flutter project.
+## Preview
+<img src="https://user-images.githubusercontent.com/866289/89097744-cdc21980-d40b-11ea-8a16-fbb94ca16d84.gif" />
+
 
 ## Getting Started
 
